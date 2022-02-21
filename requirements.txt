@@ -12,4 +12,4 @@ sqlparse==0.4.2
 tzdata==2021.5
 virtualenv==20.13.0
 whitenoise==6.0.0
-django-heroku==4.0.2
+
